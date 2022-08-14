@@ -1,1 +1,1 @@
-# FaceRecognition_Minor
+# FaceDetection_Minor
